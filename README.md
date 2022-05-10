@@ -14,3 +14,6 @@ Solucionar problemas de los audifonos PulseAudio
 Sistema para diseño de impresión 3D
 ´sudo apt install freecad´
 
+Cliente ftp
+´sudo apt install filezilla´
+
