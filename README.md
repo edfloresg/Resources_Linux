@@ -17,3 +17,5 @@ Sistema para diseño de impresión 3D
 Cliente ftp
 ´sudo apt install filezilla´
 
+Calibre - Gestor de libros
+´sudo apt install calibre´
