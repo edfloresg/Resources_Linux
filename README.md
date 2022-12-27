@@ -12,10 +12,16 @@ Solucionar problemas de los audifonos PulseAudio
 `sudo apt-get install pulseaudio-module-bluetooth`
 
 Sistema para diseño de impresión 3D
-´sudo apt install freecad´
+`sudo apt install freecad`
 
 Cliente ftp
-´sudo apt install filezilla´
+`sudo apt install filezilla`
 
 Calibre - Gestor de libros
-´sudo apt install calibre´
+`sudo apt install calibre`
+
+Instalar programas AppImage
+` sudo chmod a+x "nombre del paquete" `
+` ./nombre del paquete`
+
+
