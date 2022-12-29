@@ -24,4 +24,7 @@ Instalar programas AppImage
 ` sudo chmod a+x "nombre del paquete" `
 ` ./nombre del paquete`
 
+Instalar ifconfig y otros comandos de red
+` sudo apt install net-tools`
+
 
